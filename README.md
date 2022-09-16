@@ -1,16 +1,16 @@
 # 20-React-Challenge-React-Portfolio
 
-# Deployed Application
+## Deployed Application
 
-# Github Repository
+## Github Repository
 
 https://github.com/Shuyu-Sun/20-React-Challenge-React-Portfolio
 
-# Desciption
+## Desciption
 
 Being a web developer means being part of a community. This app is a place to share projects not only if you're applying for jobs or working as a freelancer but also so that you can share your work with fellow developers and collaborate on future projects.
 
-# Table of Contents
+## Table of Contents
 
 - Deployed Application
 - Github Repository
@@ -23,9 +23,9 @@ Being a web developer means being part of a community. This app is a place to sh
 - Usage
 - Questions / Inquiry
 
-# User Story
+## User Story
 
-```
+```md
 AS AN employer looking for candidates with experience building single-page applications
 
 I WANT to view a potential employee's deployed React portfolio of work samples
@@ -34,9 +34,9 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ```
 
-# Acceptance Criteria
+## Acceptance Criteria
 
-```
+```md
 GIVEN a single-page application portfolio for a web developer
 WHEN I load the portfolio
 THEN I am presented with a page containing a header, a section for content, and a footer
@@ -64,11 +64,11 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
 ```
-# License
+## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Technologies Used
+## Technologies Used
 
 - React
 - React Bootstrap
@@ -76,7 +76,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 - HTML5
 - CSS
 
-# Installation
+## Installation
 
 1. To install this application, clone the code into your terminal for the respective repository.
 
@@ -85,11 +85,11 @@ Run the following commands in the command-line in the root of the folder:
 2. npm run build
 3. npm start
 
-# Usage
+## Usage
 
 - Use the navigation bar to navigate through different sections of the app.
 
-# Questions / Inquiry
+## Questions / Inquiry
 
 If you have any questions about this projects, please find below our emails:
 
