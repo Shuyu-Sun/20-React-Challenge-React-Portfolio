@@ -21,7 +21,6 @@ Being a web developer means being part of a community. This app is a place to sh
 - Technologies Used
 - Installation
 - Usage
-- Team Members - How to reach us!
 - Questions / Inquiry
 
 # User Story
@@ -62,9 +61,13 @@ THEN I receive a notification if I have entered an invalid email address
 WHEN I am presented with the Resume section
 THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 WHEN I view the footer
-THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
+THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
 ```
+# License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Technologies Used
 
 - React
@@ -72,11 +75,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 - Javascript
 - HTML5
 - CSS
-- Apollo
-- Graphql
-- Node.js
-- Mongoose
-- JWT
 
 # Installation
 
@@ -90,10 +88,6 @@ Run the following commands in the command-line in the root of the folder:
 # Usage
 
 - Use the navigation bar to navigate through different sections of the app.
-
-# Team Members - How to reach us!
-
-- https://github.com/Shuyu-Sun - Shuyu Sun
 
 # Questions / Inquiry
 
