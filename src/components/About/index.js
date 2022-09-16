@@ -20,10 +20,7 @@ function About() {
           Fashion Management. Based in New York City. I have enrolled in
           Columbia University's Engineering Coding Boot Camp to transition as a
           Full-Stack Software Engineer. With newly developed skills in
-          JavaScript, CSS, React.js, and responsive web design. I am known as an
-          innovative problem solver passionate about developing apps, with a
-          focus on mobile-first design and development. With each project, my
-          aim is to best engage my audience for an impactful user experience. I
+          JavaScript, CSS, React.js, and responsive web design. I
           have three years of experience working in fashion advertising. I
           worked for GRAZIA fashion magazine for 2 years, and another year for
           one of China’s most influential fashion influencers. I recently worked
