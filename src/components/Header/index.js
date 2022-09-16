@@ -6,7 +6,7 @@ function Header(props) {
 
 	return (
 		<header>
-			<div>
+			<div className="mobile-view">
 				<h2>Stella Sun's Portfolio</h2>
 			</div>
 			<div>
