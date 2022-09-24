@@ -28,7 +28,7 @@ function App() {
 
   return (
     <div>
-      <div>
+      <div className="mobile-header">
         <Header currentTab={currentTab} setCurrentTab={setCurrentTab}></Header>
       </div>
       <div>

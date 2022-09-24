@@ -17,7 +17,7 @@
   {
     "id": 3,
     "name": "Restaurateur",
-    "image": "",
-    "deployedapp": ""
+    "image": "https://user-images.githubusercontent.com/102841726/190304167-3115cee8-c6d6-42e5-9744-86e859e86b0b.png",
+    "deployedapp": "https://intense-inlet-07195.herokuapp.com/"
   }
 ]
